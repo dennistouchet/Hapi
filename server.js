@@ -1,6 +1,6 @@
 // server.js
 
-'user strict'
+'use strict'
 
 const Hapi = require('hapi');
 const Request = require('request');
